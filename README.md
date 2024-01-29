@@ -8,7 +8,7 @@ At the starting screen, the player has the option to choose music to play in the
 
 ## Acknowledgements 
 
-This was a class project done for Princeton University's COS126 course using their standard libraries. 
+This was a personal project done for Princeton University's COS126 course using their standard libraries. 
 
 ### Authors
 
